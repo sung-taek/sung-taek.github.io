@@ -1,7 +1,17 @@
 @media screen {
 	 /* 스마트폰 */ 
 	@media screen and (max-width:767px){
-	body {      background-color: skyblue; 	}
+	body {      
+		background-color: skyblue; 	
+	}
+	#address {
+		width: auto;
+		float :none;
+	}
+	#customer{
+		width: auto;
+		float :none;
+	}
 	}
 	/* 테블릿 PC 세로 */ 
 	@media screen and (min-width:768px) and (max-width:959px){
@@ -10,6 +20,7 @@
 	/* 데스크탑*/ 
 	@media screen and (min-width:960px){
 	 body { 	 background-color: purple; 	 
-	       color: azure;
-	      }
+		color: ivory;
 	}
+	}
+	
