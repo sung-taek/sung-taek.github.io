@@ -9,5 +9,7 @@
 	}
 	/* 데스크탑*/ 
 	@media screen and (min-width:960px){
-	 body { 	 background-color: purple; 	 }
+	 body { 	 background-color: purple; 	 
+	       color: azure;
+	      }
 	}
